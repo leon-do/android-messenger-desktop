@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "android-messenger-osx-tauri",
+  "productName": "android-messenger-osx",
   "version": "0.1.0",
   "identifier": "android-messenger-osx",
   "build": {
@@ -13,9 +13,9 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "android-messenger-osx-tauri",
-        "width": 800,
-        "height": 600
+        "title": "Android Messenger",
+        "width": 1024,
+        "height": 768
       }
     ],
     "security": {

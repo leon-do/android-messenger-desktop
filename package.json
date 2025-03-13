@@ -1,5 +1,5 @@
 {
-  "name": "android-messenger-osx-tauri",
+  "name": "android-messenger-osx",
   "private": true,
   "version": "0.1.0",
   "type": "module",
