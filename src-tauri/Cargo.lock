@@ -42,7 +42,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "android-messenger-osx-tauri"
+name = "android-messenger-osx"
 version = "0.1.0"
 dependencies = [
  "serde",
