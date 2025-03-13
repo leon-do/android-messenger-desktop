@@ -15,7 +15,8 @@
       {
         "title": "Android Messenger",
         "width": 1024,
-        "height": 768
+        "height": 768,
+        "url": "https://messages.google.com/web/authentication?redirected=true"
       }
     ],
     "security": {
